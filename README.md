@@ -1,4 +1,4 @@
-#Super Riders
+#Fragrences Stack
 This Website developed by React,React-Router,React-hooks,HTML,CSS,Bootstrap
 
 Github Repository Client Site: [Fragrances Stack](https://github.com/silviaplabon/Fragrences-Stack-Client ).
